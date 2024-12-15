@@ -1,0 +1,52 @@
+Name: Mingfan HAO
+Student ID: 20618274
+Username:alymh23
+
+Html Directory :
+1.html/Dockerfile
+2.html/cw2/index.php
+3.html/cw2/admin/addVehicle.php
+4.html/cw2/admin/changePassword.php
+5.html/cw2/admin/common.php
+6.html/cw2/admin/db.inc.php
+7.html/cw2/admin/db.php
+8.html/cw2/admin/edit.php
+9.html/cw2/admin/index.php
+10.html/cw2/admin/login.php
+11.html/cw2/admin/logout.php
+12.html/cw2/admin/nav.php
+13.html/cw2/admin/officerList.php
+14.html/cw2/admin/operateLog.php
+15.html/cw2/admin/report.php
+16.html/cw2/admin/searchIncidents.php
+17.html/cw2/admin/searchPeople.php
+18.html/cw2/admin/searchVehicle.php
+19.html/cw2/admin/security.php
+
+Resources Used:
+1. Login function: https://github.com/nduhamell/login-signup-form/blob/master/login.php
+                               https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php.
+2. User and Admin function: https://www.oryoy.com/news/shi-yong-php-shi-xian-duo-yong-hu-jiao-se-deng-lu-jie-mian-qie-huan-yu-quan-xian-guan-li.html?utm_source=chatgpt.com
+2. Database connection setup referenced from "PHP and MySQL Best Practices":https://gist.github.com/psxjpm/d2a78331fe70ea88e67be5eaead3084c
+
+3. Add vehicle page:https://github.com/MovieTone/police-reporting-system/blob/main/src/addVehicle.php
+				 https://www.hostinger.com/tutorials/how-to-use-php-to-insert-data-into-mysql-database		
+5.change password: https://www.programmingempire.com/how-to-implement-the-change-password-function-in-php/
+6.common function: https://amazingalgorithms.com/snippets/php/log-user-activities-in-a-database/
+7.edit incidents function:https://github.com/MovieTone/police-reporting-system/blob/main/src/editIncident.php
+					   https://github.com/MovieTone/police-reporting-system/blob/main/src/addFines.php
+8.log out: https://github.com/MovieTone/police-reporting-system/blob/main/src/logOut.php
+9.Navigation bar: https://gist.github.com/erikacimi/cb4317ed278c4f61516ba7d28f20f13d
+                               https://github.com/MovieTone/police-reporting-system/blob/main/src/menu.php
+10.Officer list: https://github.com/MovieTone/police-reporting-system/blob/main/src/createOfficer.php
+11.record operate audit: https://github.com/utopia-php/audit/blob/main/src/Audit/Audit.php
+12.create incidents:  https://github.com/MovieTone/police-reporting-system/blob/main/src/report.php
+13.search people form: https://gist.github.com/psxjpm/412358c557fce4dfb061cae5e8fffd74
+					https://github.com/MovieTone/police-reporting-system/blob/main/src/lookupPeople.php
+14.search incidents: https://gist.github.com/psxjpm/412358c557fce4dfb061cae5e8fffd74
+				   https://github.com/MovieTone/police-reporting-system/blob/main/src/retrieveIncidents.php
+15search vehicle: https://github.com/aksharSolanki/Web-Form-PHP-MySQL/blob/main/index.php
+			     https://gist.github.com/psxjpm/e5c0ee508290844052aa18f48bfa9733
+
+
+
